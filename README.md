@@ -39,7 +39,7 @@ Each SQL file below corresponds to a specific business question or metric. Visua
 | `Staff_handel.sql` | Evaluates order handling performance by staff | ![Preview]() |
 | `top_5_Staff.sql` | Identifies top performing staff based on orders | ![Preview](Images/Top_staff_order.png) |
 | `total_no_item_Sold.sql` | Counts total unique items sold | ![Preview](Images/Total.png) |
-| `total_quantity.sql` | Aggregates total quantity sold | ![Preview]() |
+| `total_quantity.sql` | Aggregates total quantity sold | ![Preview](Images/store.png) |
 | `totalSales_totalDiscount.sql` | Compares total sales and total discounts | ![Preview](Images/ToatalSales_totalDiscount.png) |
 | `unique_cust_per_staff.sql` | Tracks how many unique customers each staff served | ![Preview](Images/Unique_Cust_per_staff.png) |
 
