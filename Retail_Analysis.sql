@@ -1,5 +1,5 @@
 -- ================================================================
--- PARLE RETAIL ANALYTICS - CONSOLIDATED SQL QUERIES
+-- RETAIL ANALYTICS - CONSOLIDATED SQL QUERIES
 -- ================================================================
 -- This file contains all SQL queries used for the Parle Retail Analytics project
 -- Last Updated: June 6, 2025
