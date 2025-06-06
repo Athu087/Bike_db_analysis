@@ -45,9 +45,24 @@ This project contains a comprehensive set of SQL queries designed to analyze ret
 - **Discount Analysis** - Evaluating the impact of promotional discounts
   ![Average Discount](Images/avg_discount.png)
 
-## 📈 Key SQL Queries
+## 📈 SQL Queries
 
-The repository includes the following analytical queries:
+### Consolidated SQL File
+
+All queries have been merged into a single comprehensive file: [`Parle_Retail_Analysis.sql`](Parle_Retail_Analysis.sql)
+
+This consolidated file organizes all queries into logical sections:
+- Customer Insights
+- Store Performance
+- Staff Metrics
+- Order Analysis
+- Product Analysis
+
+Each query includes detailed comments and references to the related visualizations.
+
+### Individual SQL Queries
+
+The repository also includes the following individual analytical queries:
 
 | Query File | Purpose | Visualization |
 |------------|---------|---------------|
@@ -69,10 +84,11 @@ The repository includes the following analytical queries:
 
 ## 🚀 How to Use
 
-1. These SQL queries are designed to work with the Parle retail database
-2. Execute queries in your SQL database management tool
-3. Adapt query parameters as needed for specific time periods or filters
-4. Export results to your preferred data visualization tool for further analysis
+1. **For all analyses at once**: Run the consolidated [`Parle_Retail_Analysis.sql`](Parle_Retail_Analysis.sql) file
+2. **For specific analyses**: Execute individual SQL queries from the relevant files
+3. **Customize queries**: Adapt query parameters as needed for specific time periods or filters
+4. **Visualize results**: Export query results to your preferred data visualization tool for further analysis
+5. **Reference visualizations**: Use the included image files to understand expected visualization outputs
 
 ## 📊 Visualizations Gallery
 
